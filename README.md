@@ -1,1 +1,2 @@
-* Generate a heatmap from pairwise qpWave output files
+# Generate a heatmap from pairwise qpWave output files
+
