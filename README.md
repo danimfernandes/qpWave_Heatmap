@@ -2,7 +2,7 @@
 
 ### 1. Description
 
-The R script will read over all qpWave results files, compile the data into a single table, and then produce a heatmap.
+The R script will read over all qpWave results files, compile the data into a single table and matrix, and then produce a heatmap.
 
 ### 2. Requirements
 
